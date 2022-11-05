@@ -29,7 +29,7 @@ data-styled
   position:sticky;top:0;
   z-index:99;
   font-family:"Amiri",Montserrat,Sans-serif;color:#07174a;
-  background-color: #0A031E;
+  background-color: #ffffff;
   box-shadow:0 1px 3px rgba(0,0,0,0.15);
 }/*!sc*/
 .gOVZdh > div{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-box-pack:center;-webkit-justify-content:center;-ms-flex-pack:center;justify-content:center;-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;padding:0;}/*!sc*/
@@ -77,14 +77,13 @@ data-styled.g39[id="styles__DynamicContainer-sc-1embf3y-8"]{content:"kObEWw,"}/*
 data-styled.g51[id="dynamic_content_styles__DynamicImage-sc-15h5f1r-0"]{content:"buurNT,"}/*!sc*/
 .cyUvnL{color:#000000;background-color:#ebcb7f;border-radius:2px 2px 2px 2px;font-family:"Montserrat",Montserrat,Sans-serif;font-weight:500;font-size:16px;padding:15px 30px;display:block;text-align:center;}/*!sc*/
 data-styled
-
 .g52[id="dynamic_content_styles__DynamicButton-sc-15h5f1r-1"]{content:"cyUvnL,"}/*!sc*/
-.eNXtLn{color:white;font-family:"Montserrat",Montserrat,Sans-serif;font-size:19px;line-height:1.5em;}/*!sc*/
+.eNXtLn{color:#4b4b4b;font-family:"Montserrat",Montserrat,Sans-serif;font-size:19px;line-height:1.5em;}/*!sc*/
 .eNXtLn p{margin-bottom:1em;}/*!sc*/
 .eNXtLn a{color:#025acb;font-weight:bolder;-webkit-text-decoration:underline;text-decoration:underline;
 }/*!sc*/
 data-styled.g53[id="dynamic_content_styles__DynamicRichText-sc-15h5f1r-2"]{content:"eNXtLn,"}/*!sc*/
-.fjMRSD{float:none;margin-top:0;margin-bottom:0;text-align:inherit;background-color:rgb(7,23,74,1);display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;-webkit-box-pack:center;-webkit-justify-content:center;-ms-flex-pack:center;justify-content:center;}/*!sc*/
+.fjMRSD{float:none;margin-top:0;margin-bottom:0;text-align:inherit;background-color:#636363;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;-webkit-box-pack:center;-webkit-justify-content:center;-ms-flex-pack:center;justify-content:center;}/*!sc*/
 @media (max-width:719px){.fjMRSD{padding-top:40px;}}/*!sc*/
 data-styled.g58[id="style-diatena-blue__Footer-jglcnm-0"]{content:"fjMRSD,"}/*!sc*/
 .lnQwYw{width:100%;max-width:720px;padding:20px;font-size:0.75em;color:rgb(222,222,222);text-align:center;font-family:"Montserrat",sans-serif;}/*!sc*/
